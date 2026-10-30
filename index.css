@@ -11,6 +11,18 @@ body {
     border: 2px solid black;
 }
 
+@media (min-width: 768px) and (max-width: 1199.98px) {
+.caja1  { background-color: #FFEE00 !important; }
+.caja2  { background-color: #008B9A !important; }
+.caja3  { background-color: #FFEE00 !important; }
+.caja4  { background-color: #008B9A !important; }
+.caja5  { background-color: #FFEE00 !important; }
+.caja6  { background-color: #008B9A !important; }
+.caja7  { background-color: #FFEE00 !important; }
+.caja8  { background-color: #008B9A !important; }
+.caja9  { background-color: #FFEE00 !important; }
+.caja10 { background-color: #008B9A !important; }
+}
 
 
 .caja1  { background-color: #FFEE00; }
