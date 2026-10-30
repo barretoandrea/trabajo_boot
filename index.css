@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F6E7F7;
+}
+
+[class*="caja"] {
+    height: 100px;
+    border: 2px solid black;
+}
+
+
+
+.caja1  { background-color: #FFEE00; }
+.caja2  { background-color: #4F1A6B; }
+.caja3  { background-color: #FFEE00; }
+.caja4  { background-color: #4F1A6B; }
+.caja5  { background-color: #FFEE00; }
+.caja6  { background-color: #4F1A6B; }
+.caja7  { background-color: #FFEE00; }
+.caja8  { background-color: #4F1A6B; }
+.caja9  { background-color: #FFEE00; }
+.caja10 { background-color: #4F1A6B; }
